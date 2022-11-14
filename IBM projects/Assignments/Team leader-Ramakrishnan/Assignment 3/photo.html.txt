@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Photos</title>
+    <link rel="stylesheet" href="https://s3.jp-tok.cloud-object-storage.appdomain.cloud/holybucket/style.css">
+</head>
+
+<body>
+    <div class="content">
+        <div class="inner">
+            <h1>Image 1</h1>
+            <img src="https://s3.jp-tok.cloud-object-storage.appdomain.cloud/holybucket/1.jpg" alt="image 1">
+        </div>
+        <br>
+        <hr>
+        <div class="inner">
+            <h1>Image 2</h1>
+            <img src="https://s3.jp-tok.cloud-object-storage.appdomain.cloud/holybucket/2.jpg" alt="image 2">
+        </div>
+        <hr>
+        <div class="inner">
+            <h1>Image 3</h1>
+            <img src="https://s3.jp-tok.cloud-object-storage.appdomain.cloud/holybucket/3.jpg" alt="image 3">
+        </div>
+        <hr>
+        <div class="inner">
+            <h1>Image 4</h1>
+            <img src="https://s3.jp-tok.cloud-object-storage.appdomain.cloud/holybucket/4.jpg" alt="image 4">
+        </div>
+        <hr>
+        <div class="inner">
+            <h1>Image 5</h1>
+            <img src="https://s3.jp-tok.cloud-object-storage.appdomain.cloud/holybucket/5.jpg" alt="image 5">
+        </div>
+        <hr>
+    </div>
+
+</body>
+
+</html>

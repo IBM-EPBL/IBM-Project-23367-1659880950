@@ -1,0 +1,24 @@
+img {
+    height: 400px;
+    width: auto;
+}
+
+div {
+    margin: 0px 20px 0px 20px;
+}
+
+.inner:hover {
+    box-shadow: 5px 10px 20px black;
+    transition: box-shadow ease-in-out .3s, border ease-in-out 1s;
+    border: 1px solid black;
+}
+
+.content {
+    padding: 20px;
+}
+
+.inner {
+    border-radius: 20px;
+    padding: 30px;
+    display: inline-block;
+}
